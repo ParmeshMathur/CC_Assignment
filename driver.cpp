@@ -1,4 +1,13 @@
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <iostream>
+#include <iomanip>
+#include <algorithm>
+#include <vector>
+#include <string>
+#include <unordered_map>
 
 #include "parser.tab.h"
 
